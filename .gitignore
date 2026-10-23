@@ -1,0 +1,3 @@
+*.class
+books.db
+.DS_Store
